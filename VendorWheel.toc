@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: Vendor Wheel Paging
+## Notes: Scroll to change vendor pages (Shift = 5 pages).
+## Author: MRWH1TE117
+VendorWheel.lua
